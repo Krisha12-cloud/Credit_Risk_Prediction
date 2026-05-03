@@ -46,7 +46,9 @@ Used SHAP to identify key risk factors
 
 #### git clone <repo-link>
 
-#### cd <repo-name>
 
 #### pip install -r requirements.txt
+
+# Authors
+### Krisha Doshi,Hardi Makwana
 
